@@ -1,7 +1,14 @@
 Dear Unmessenger Team,
 
-I have created the folder of enviorment but when i try to fetch the imdb site after coding i'm getting 403 error so i'm not able to complete the assignment, also i need doubt session regarding this.
+I hope this message finds you well.
 
+I am writing to inform you about some challenges I have encountered while working on the assignment to fetch data from the IMDb site. Unfortunately, I am facing a 403 Forbidden error, which is preventing me from accessing the necessary data. This issue has impeded my ability to complete the assignment on time.
 
-Thank you
+Additionally, I attempted to upload the environment folder to GitHub; however, I encountered another issue where GitHub does not support files or folders exceeding 25MB. This limitation has further complicated the process.
+
+I hope you understand the difficulties I am facing. I would greatly appreciate your guidance and assistance in resolving these issues.
+
+Thank you for your attention to this matter.
+
+Best regards,
 Adarsh Jaiswal.
